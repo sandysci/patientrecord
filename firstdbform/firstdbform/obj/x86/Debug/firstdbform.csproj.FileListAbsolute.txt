@@ -1,0 +1,13 @@
+C:\Users\USER\documents\visual studio 2010\Projects\firstdbform\firstdbform\bin\Debug\firstdbform.exe.config
+C:\Users\USER\documents\visual studio 2010\Projects\firstdbform\firstdbform\bin\Debug\firstdbform.exe
+C:\Users\USER\documents\visual studio 2010\Projects\firstdbform\firstdbform\bin\Debug\firstdbform.pdb
+C:\Users\USER\documents\visual studio 2010\Projects\firstdbform\firstdbform\bin\Debug\MySql.Data.dll
+C:\Users\USER\documents\visual studio 2010\Projects\firstdbform\firstdbform\obj\x86\Debug\firstdbform.csprojResolveAssemblyReference.cache
+C:\Users\USER\documents\visual studio 2010\Projects\firstdbform\firstdbform\obj\x86\Debug\firstdbform.Properties.Resources.resources
+C:\Users\USER\documents\visual studio 2010\Projects\firstdbform\firstdbform\obj\x86\Debug\firstdbform.csproj.GenerateResource.Cache
+C:\Users\USER\documents\visual studio 2010\Projects\firstdbform\firstdbform\obj\x86\Debug\firstdbform.exe
+C:\Users\USER\documents\visual studio 2010\Projects\firstdbform\firstdbform\obj\x86\Debug\firstdbform.pdb
+C:\Users\USER\Documents\Visual Studio 2010\Projects\firstdbform\firstdbform\obj\x86\Debug\firstdbform.Form2.resources
+C:\Users\USER\Documents\Visual Studio 2010\Projects\firstdbform\firstdbform\obj\x86\Debug\firstdbform.Form3insert.resources
+C:\Users\USER\Documents\Visual Studio 2010\Projects\firstdbform\firstdbform\obj\x86\Debug\firstdbform.Form3delete.resources
+C:\Users\USER\Documents\Visual Studio 2010\Projects\firstdbform\firstdbform\obj\x86\Debug\firstdbform.firstdbform.db.resources
